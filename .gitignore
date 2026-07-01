@@ -18,3 +18,8 @@ Sessionx.vim
 tags
 # Persistent undo
 [._]*.un~
+
+### AI ###
+.opencode
+.lola
+.claude

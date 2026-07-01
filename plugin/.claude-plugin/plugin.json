@@ -1,0 +1,11 @@
+{
+  "name": "bragai",
+  "description": "Role-based multi-agent harness with skills for development workflows.",
+  "version": "0.1.0",
+  "author": {
+    "name": "mrbrandao"
+  },
+  "homepage": "https://github.com/mrbrandao/bragai",
+  "repository": "https://github.com/mrbrandao/bragai",
+  "license": "Apache-2.0"
+}
